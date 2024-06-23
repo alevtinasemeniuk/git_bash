@@ -40,7 +40,9 @@ i                                                     # Enter the insert mode of
 :wq                                                   # Save and exit the vim editor
 ```
 ## Task 2
-**** Editing files, checking and killing proccesses, pinging websites
+**Editing files, checking and killing proccesses, pinging websites**
 ```bash
+
+
 ```
 ## Working with Git
