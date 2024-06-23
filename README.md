@@ -1,7 +1,7 @@
 # Working with Git and Bash 
 ## Table of Contents
-- [Working with Bash](#mkdir-task)
-- [Working with Git]()
+- [Working with Bash](#working-with-bash)
+- [Working with Git](#working-with-git)
 
 ## Working with Bash
 The ability to work with the bash command line provides a tester with numerous advantages, including the ability to quickly view and analyze application and server logs for diagnosing and resolving errors.
@@ -40,7 +40,7 @@ i                                                     # Enter the insert mode of
 :wq                                                   # Save and exit the vim editor
 ```
 ## Task 2
-****Editing files, checking and killing proccesses, pinging websites
+**** Editing files, checking and killing proccesses, pinging websites
 ```bash
 ```
 ## Working with Git
