@@ -1,6 +1,6 @@
 # Working with git and bash 
 ## Table of Contents
-- [Working with bash](#working with directories)
+- [Working with bash](#working-with-directories)
 - [Working with git]()
 
 ## Working with bash
