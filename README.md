@@ -1,6 +1,6 @@
 # Working with Git and Bash 
 ## Table of Contents
-- [Working with Bash](#working-with-directories)
+- [Working with Bash](#working-with-directories-and-files)
 - [Working with Git]()
 
 ## Working with Bash
