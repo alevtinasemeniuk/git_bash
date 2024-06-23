@@ -1,6 +1,6 @@
 # Working with Git and Bash 
 ## Table of Contents
-- [Working with Bash](#working-with-directories-and-files)
+- [Working with Bash](#mkdir-task)
 - [Working with Git]()
 
 ## Working with Bash
@@ -39,3 +39,8 @@ vim test4/file1.txt                                   # Open the vim editor to e
 i                                                     # Enter the insert mode of vim editor
 :wq                                                   # Save and exit the vim editor
 ```
+## Task 2
+****Editing files, checking and killing proccesses, pinging websites
+```bash
+```
+## Working with Git
