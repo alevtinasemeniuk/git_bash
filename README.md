@@ -25,7 +25,7 @@ mv test1/file1.txt test1/file3.txt test4/             # Move 'file1.txt' and 'fi
 echo line1 >> test4/file1.txt                         # Add three lines with the word "line" to 'file1.txt' of 'test4' directory
 echo line2 >> test4/file1.txt
 echo line3 >> test4/file1.txt
-cat test4/file1.txt                                   # View the contents of file1.txt of 'test4' directory
+cat test4/file1.txt                                   # View the contents of 'file1.txt' of 'test4' directory
 echo line4 >> test4/file3.txt                         # Add three lines with the word "line" to 'file3.txt' of 'test4' directory
 echo line5 >> test4/file3.txt
 echo line6 >> test4/file3.txt
